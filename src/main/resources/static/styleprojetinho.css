@@ -1,0 +1,49 @@
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+
+.link {
+margin-left: 835px;   
+    font-size: 30px;
+    text-decoration: none;
+
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.h1titulo{
+    font-size: 40px;
+    color: rgb(80, 144, 255);
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-align: center;
+    color: rgb(0, 89, 255); text-shadow: rgb(3, 52, 121) 0.1em 0.1em 0.2em;
+    
+    }
+    
+    .lbl{
+        width: 50%;
+        height: 30px;
+        color: rgb(30, 210, 207);
+        margin-top: 70px;
+        text-align: center;
+        margin-left: 500px;
+        border-radius: 10px;
+font-size: 25px;
+    }
+    .lbl2{
+        width: 50%;
+        height: 30px;
+        color: rgb(30, 210, 207);
+        margin-top: 70px;
+        text-align: center;
+        margin-left: 835px;
+        border-radius: 10px;
+        margin-top: 35px;
+font-size: 80px;
+    }
